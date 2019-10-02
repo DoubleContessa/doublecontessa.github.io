@@ -1,6 +1,10 @@
 
- **Hi there everyone! 😬**
+ **Hola a todos! 😬**
 
-Welcome to the **DoubleContessa** site, we are people passionate with tech, coding and geek things.
+Bienvenidos a la web de  **DoubleContessa**!
+Somos un grupos de personas apasionadas por la tecnología, la cultura maker y la programación.
 
-*Under construction*
+Nuestra misión es crear proyectos abiertos basados en nuestras inquietudes.
+
+
+*En construcción*
