@@ -1,0 +1,21 @@
+{
+  "name": "doublecontessa.github.io",
+  "version": "0.0.1",
+  "description": "web page of double contessa",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DoubleContessa/DoubleContessa.github.io.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/DoubleContessa/DoubleContessa.github.io/issues"
+  },
+  "homepage": "https://github.com/DoubleContessa/DoubleContessa.github.io#readme",
+  "devDependencies": {
+    "fiddly": "^0.8.0"
+  }
+}
